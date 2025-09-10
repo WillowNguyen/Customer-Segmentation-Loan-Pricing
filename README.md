@@ -1,5 +1,11 @@
 # Customer Segmentation & Loan Pricing Analytics (2025)
 
+## Full Report
+
+The complete project report (225MB, detailed analysis and visualizations) is hosted on Google Drive due to GitHub’s file size limits.  
+
+📄 [Full Report (PDF)](https://drive.google.com/file/d/1PKPhWowJtSyi0gJzH-MIr8N3Juq_khTM/view?usp=sharing)
+
 **Elevator pitch**  
 Actionable customer segmentation and pricing insights derived from 70K+ borrower records to inform risk-based pricing, customer master analytics, and targeted retention programs.
 
