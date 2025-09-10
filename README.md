@@ -1,4 +1,4 @@
-# Customer Segmentation & Loan Pricing Analytics — SHB Finance (2024)
+# Customer Segmentation & Loan Pricing Analytics (2025)
 
 **Elevator pitch**  
 Actionable customer segmentation and pricing insights derived from 70K+ borrower records to inform risk-based pricing, customer master analytics, and targeted retention programs.
@@ -31,7 +31,7 @@ The analysis is based on ~70,000 customer records, incorporating year-over-year 
 
 ## Business context & goals
 **Context**  
-SHB Finance operates in Vietnam’s consumer finance sector, where profitability is highly dependent on accurate pricing, effective risk management, and sustainable customer relationships.  
+A firm operates in Vietnam’s consumer finance sector, where profitability is highly dependent on accurate pricing, effective risk management, and sustainable customer relationships.  
 
 **Primary goals**  
 - Build robust customer segments to improve targeting and personalization.  
@@ -48,7 +48,7 @@ SHB Finance operates in Vietnam’s consumer finance sector, where profitability
 ---
 
 ## Data overview
-- **Volume:** ~70,000+ customer records.  
+- **Volume:** 70,000+ customer records.  
 - **Customer attributes:** demographics, income bracket, job type, education, marital status, dependents.  
 - **Loan attributes:** loan type, amount, term, interest rate, purpose (accommodation, shopping, vehicle, etc.).  
 - **Time dimension:** year-over-year data (2022 vs. 2023) to capture changing loan demand.  
@@ -122,4 +122,4 @@ SHB Finance operates in Vietnam’s consumer finance sector, where profitability
 
 **Nguyen Thi Thanh Truc (Willow)**  
 📧 willownguyen.2111@gmail.com  
-🌐 GitHub: [github.com/<WillowNguyen>](https://github.com/WillowNguyen)
+🌐 GitHub: [github.com/WillowNguyen](https://github.com/WillowNguyen)
